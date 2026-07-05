@@ -1,0 +1,42 @@
+[
+  {
+    "code": "IM2607",
+    "name": "中证1000股指期货2607",
+    "exchange": "CFFEX"
+  },
+  {
+    "code": "IM2609",
+    "name": "中证1000股指期货2609",
+    "exchange": "CFFEX"
+  },
+  {
+    "code": "IC2607",
+    "name": "中证500股指期货2607",
+    "exchange": "CFFEX"
+  },
+  {
+    "code": "IC2609",
+    "name": "中证500股指期货2609",
+    "exchange": "CFFEX"
+  },
+  {
+    "code": "IM2608",
+    "name": "中证1000股指期货2608",
+    "exchange": "CFFEX"
+  },
+  {
+    "code": "IC2608",
+    "name": "中证500股指期货2608",
+    "exchange": "CFFEX"
+  },
+  {
+    "code": "IC2612",
+    "name": "中证500股指期货2612",
+    "exchange": "CFFEX"
+  },
+  {
+    "code": "IM2612",
+    "name": "中证1000股指期货2612",
+    "exchange": "CFFEX"
+  }
+]
